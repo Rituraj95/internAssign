@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+
+}
+.maindivv{
+    display: flex;
+    background-color: white;
+    padding-top: 40px;
+    justify-content: center;
+
+}
+.lastimg{
+    display: flex;
+    justify-content: center;
+   
+}
+.lastimg img{
+    width: 50vh;
+    height: 80px;
+}
